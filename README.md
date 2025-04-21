@@ -31,7 +31,7 @@ A fullstack Typeface Dropbox application where users can upload, list, and downl
 ---
 
 ### 💻 Frontend Setup
--cd frontend
--npm install
--npm start
-
+```bash
+cd frontend
+npm install
+npm start
